@@ -141,7 +141,7 @@ def load_publications (out_buf, known_datasets):
             out_buf.append(".\n")
 
 
-def write_corpus (out_buf, vocab_file="corpus/vocab.json"):
+def write_corpus (out_buf, vocab_file="vocab.json"):
     """
     output the corpus in TTL and JSON-LD
     """
