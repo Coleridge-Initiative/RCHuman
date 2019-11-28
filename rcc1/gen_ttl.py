@@ -146,7 +146,7 @@ def write_corpus (out_buf, vocab_file="corpus/vocab.json"):
     output the corpus in TTL and JSON-LD
     """
     corpus_ttl_filename = "tmp.ttl"
-    corpus_jsonld_filename = "tmp.json"
+    corpus_jsonld_filename = "tmp.jsonld"
 
     ## write the TTL output
     with open(corpus_ttl_filename, "w") as f:
