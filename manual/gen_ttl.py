@@ -96,6 +96,10 @@ def iter_publications (stream_path="stream.json", override_path="partitions/*.js
             title = elem["title"]
 
             if title in override:
+                if "omit-corpus" in override[title] and override[title]["omit-corpus"]:
+                    # omit this publication from the corpus
+                    continue
+
                 for key in ["doi", "pdf", "publisher", "url"]:
                     if key in override[title]:
                         elem[key] = override[title][key]
@@ -118,7 +122,7 @@ def load_publications (out_buf, known_datasets):
     for elem in iter_publications():
         link_map = elem["datasets"]
 
-        if len(link_map) > 0:
+        if elem["pdf"] and (len(link_map) > 0):
             # generate UUID
             id_list = [elem["publisher"], elem["title"]]
             pub_id = corpus.get_hash(id_list, prefix="publication-")
