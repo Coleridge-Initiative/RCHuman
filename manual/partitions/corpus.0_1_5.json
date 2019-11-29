@@ -137,7 +137,7 @@
                 "dataset-017"
             ],
             "doi": "10.1111/apt.12432",
-            "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/apt.12432",
+            "pdf": null,
             "publisher": "Aliment Pharmacol Ther",
             "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/apt.12432"
         },
@@ -1655,9 +1655,9 @@
                 "dataset-017"
             ],
             "doi": "10.1002/hep.23220",
-            "pdf": "https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1002/hep.23220",
+            "pdf": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/64534/23220_ftp.pdf",
             "publisher": "Hepatology",
-            "url": "https://aasldpubs.onlinelibrary.wiley.com/doi/full/10.1002/hep.23220"
+            "url": "http://hdl.handle.net/2027.42/64534"
         },
         "title": "Public health impact of antiviral therapy for hepatitis C in the United States"
     },
@@ -1787,7 +1787,7 @@
                 "dataset-017"
             ],
             "doi": "10.1111/j.1834-7819.2009.01108.x",
-            "pdf": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1834-7819.2009.01108.x",
+            "pdf": null,
             "publisher": "Aust Dent J",
             "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1834-7819.2009.01108.x"
         },
@@ -2328,7 +2328,7 @@
                 "dataset-001"
             ],
             "doi": "10.1016/j.aaspro.2016.02.014",
-            "pdf": "https://reader.elsevier.com/reader/sd/pii/S2210784316300146?token=13A5F1BE3A3D75CBE539E07FBA81E2015E751473E31642684B6EAABF244185F15BE2C3567298F6F11588EA51BA65DBA7",
+            "pdf": "https://www.sciencedirect.com/sdfe/reader/pii/S2210784316300973/pdf",
             "publisher": "Agriculture and Agricultural Science Procedia",
             "url": "http://dx.doi.org/10.1016/j.aaspro.2016.02.014"
         },
@@ -2441,18 +2441,6 @@
             "url": "http://purl.umn.edu/149024"
         },
         "title": "PRICE COMPETITION IN U.S. BREWING*"
-    },
-    {
-        "manual": {
-            "datasets": [
-                "dataset-001"
-            ],
-            "doi": "10.1017/s1074070800022574",
-            "pdf": "http://ageconsearch.umn.edu/record/43788/files/Richards%20JAAE%20December%202006.pdf",
-            "publisher": "Journal of Agricultural & Applied Economics",
-            "url": "http://purl.umn.edu/43788"
-        },
-        "title": "Firm-Level Competition in Price and Variety"
     },
     {
         "manual": {
@@ -4303,7 +4291,7 @@
                 "dataset-106"
             ],
             "doi": "10.1002/ajcp.12031",
-            "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/ajcp.12031",
+            "pdf": null,
             "publisher": "Am J Community Psychol",
             "url": "http://www.escholarship.org/uc/item/2x50b1wt"
         },
@@ -4891,7 +4879,7 @@
                 "dataset-106"
             ],
             "doi": "10.1111/j.1467-985X.2007.00471.x",
-            "pdf": "https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1467-985X.2007.00471.x",
+            "pdf": "http://www.stat.washington.edu/people/raftery/Research/PDF/Handcock2007.pdf",
             "publisher": "Journal of the Royal Statistical Society Series A",
             "url": "https://econpapers.repec.org/article/blajorssa/v_3a170_3ay_3a2007_3ai_3a2_3ap_3a301-354.htm"
         },

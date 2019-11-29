@@ -3,6 +3,20 @@
         "manual": {
             "omit-corpus": true,
             "datasets": [
+                "dataset-001"
+            ],
+            "doi": "10.1017/s1074070800022574",
+            "pdf": null,
+            "publisher": "Journal of Agricultural & Applied Economics",
+            "url": "http://purl.umn.edu/43788",
+            "comments": "PXN: only available PDF is a scan"
+        },
+        "title": "Firm-Level Competition in Price and Variety"
+    },
+    {
+        "manual": {
+            "omit-corpus": true,
+            "datasets": [
                 "dataset-017"
             ],
             "doi": "10.1007/s00198-013-2281-1",
