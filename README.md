@@ -4,19 +4,6 @@ Some human-in-the-loop feedback loops within the Rich Context
 knowledge graph.
 
 
-## Installation
-
-First, use `virtualenv` to create a virtual environment in the
-subdirectory `venv` for Python 3.x as the target.
-
-Then run:
-
-```
-source venv/bin/activate
-pip install -r requirements.txt
-```
-
-
 ## Components
 
 ### `manual`
