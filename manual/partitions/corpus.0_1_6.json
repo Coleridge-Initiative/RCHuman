@@ -2,7 +2,7 @@
   {
     "manual": {
       "url": "https://link.springer.com/book/10.1057%2F9781137482372",
-      "publisher": "Palgrave Political Science Collection",
+      "journal": "Palgrave Political Science Collection",
       "omit-corpus": true,
       "comments": "PXN: paywall-ish"
     },
@@ -11,7 +11,7 @@
   {
     "manual": {
       "url": "https://link.springer.com/book/10.1057%2F9781137520920",
-      "publisher": "Palgrave Political Science Collection",
+      "journal": "Palgrave Political Science Collection",
       "omit-corpus": true,
       "comments": "PXN: paywall-ish"
     },
@@ -27,7 +27,7 @@
   },
   {
     "manual": {
-      "publisher": "International Political Economy Series",
+      "journal": "International Political Economy Series",
       "omit-corpus": true,
       "comments": "PXN: paywall-ish"
     },
@@ -35,7 +35,7 @@
   },
   {
     "manual": {
-      "publisher": "Routledge",
+      "journal": "Routledge",
       "omit-corpus": true,
       "comments": "PXN: paywall-ish"
     },
@@ -43,7 +43,7 @@
   },
   {
     "manual": {
-      "publisher": "Journal of Poverty",
+      "journal": "Journal of Poverty",
       "omit-corpus": true,
       "comments": "PXN: paywall-ish"
     },
@@ -51,13 +51,13 @@
   },
   {
     "manual": {
-      "publisher": "NBER Working Paper Series"
+      "journal": "NBER Working Paper Series"
     },
     "title": "Who Benefits Most From Snap? A Study Of Food Security And Food Spending"
   },
   {
     "manual": {
-      "publisher": "SJSU Scholar Works"
+      "journal": "SJSU Scholar Works"
     },
     "title": "Increasing the CalFresh Participation Rate in The County of Santa Cruz"
   }

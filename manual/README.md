@@ -9,7 +9,6 @@ This work depends on the following metadata components as input:
 
   - `partitions/*.json` - manually curated metadata for publications
   - `vocab.json` - vocabulary preamble for JSON-LD
-  - `stream.json` - simulated stream from KG workflow (TBD replace by workflow)
 
 
 ## Metadata Format
@@ -21,7 +20,7 @@ public corpus:
 ```
     {
         "doi": "10.1000/XYZ.0123456789",
-        "publisher": "J Egreg Mansplain",
+        "journal": "journal-666",
         "title": "Market share dominance among Samoan-owned coconut tree services in Oahu",
         "url": "https://example.com/article/5150",
         "pdf": "https://example.com/article/5150?render=pdf",
@@ -40,4 +39,3 @@ Note that publications get omitted from the corpus when:
   * the metadata has `"omit-corpus": true` flag
   * no open access PDF has been identified
   * the open access PDF has its format corrupted
-
