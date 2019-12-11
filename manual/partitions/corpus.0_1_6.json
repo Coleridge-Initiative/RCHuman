@@ -1,63 +1,64 @@
 [
   {
     "manual": {
-      "url": "https://link.springer.com/book/10.1057%2F9781137482372",
-      "publisher": "Palgrave Political Science Collection",
+      "comments": "PXN: paywall-ish",
+      "journal": "journal-825",
       "omit-corpus": true,
-      "comments": "PXN: paywall-ish"
+      "url": "https://link.springer.com/book/10.1057%2F9781137482372"
     },
     "title": "A Fragile Balance, Emergency Savings and Liquid Resources for Low-Income Consumers"
   },
   {
     "manual": {
-      "url": "https://link.springer.com/book/10.1057%2F9781137520920",
-      "publisher": "Palgrave Political Science Collection",
+      "comments": "PXN: paywall-ish",
+      "journal": "journal-825",
       "omit-corpus": true,
-      "comments": "PXN: paywall-ish"
+      "url": "https://link.springer.com/book/10.1057%2F9781137520920"
     },
     "title": "The Policy and Politics of Food Stamps and SNAP"
   },
   {
     "manual": {
-      "url": "https://www.researchgate.net/publication/334098762_Building_Capacity_in_Institutional_Research_and_Decision_Support_in_Higher_Education",
+      "comments": "PXN: paywall-ish",
+      "journal": "journal-826",
       "omit-corpus": true,
-      "comments": "PXN: paywall-ish"
+      "url": "https://www.researchgate.net/publication/334098762_Building_Capacity_in_Institutional_Research_and_Decision_Support_in_Higher_Education"
     },
     "title": "Building Capacity in Institutional Research and Decision Support in Higher Education"
   },
   {
     "manual": {
-      "publisher": "International Political Economy Series",
-      "omit-corpus": true,
-      "comments": "PXN: paywall-ish"
+      "comments": "PXN: paywall-ish",
+      "journal": "journal-827",
+      "omit-corpus": true
     },
     "title": "Internalizing Globalization, The Rise of Neoliberalism and the Decline of National Varieties of Capitalism"
   },
   {
     "manual": {
-      "publisher": "Routledge",
-      "omit-corpus": true,
-      "comments": "PXN: paywall-ish"
+      "comments": "PXN: paywall-ish",
+      "journal": "journal-828",
+      "omit-corpus": true
     },
     "title": "The Transformation of Welfare States?"
   },
   {
     "manual": {
-      "publisher": "Journal of Poverty",
-      "omit-corpus": true,
-      "comments": "PXN: paywall-ish"
+      "comments": "PXN: paywall-ish",
+      "journal": "journal-167",
+      "omit-corpus": true
     },
     "title": "Pressing Issues of Inequality and American Indian Communities"
   },
   {
     "manual": {
-      "publisher": "NBER Working Paper Series"
+      "journal": "journal-829"
     },
     "title": "Who Benefits Most From Snap? A Study Of Food Security And Food Spending"
   },
   {
     "manual": {
-      "publisher": "SJSU Scholar Works"
+      "journal": "journal-830"
     },
     "title": "Increasing the CalFresh Participation Rate in The County of Santa Cruz"
   }
