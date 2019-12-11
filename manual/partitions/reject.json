@@ -1,6 +1,14 @@
 [
   {
     "manual": {
+      "comments": "PXN: no open access PDF",
+      "doi": "https://doi.org/10.1093/sf/soz020",
+       "pdf": null
+    },
+    "title": "The Decline of Cash Assistance and the Well-Being of Poor Households with Children"
+  },
+  {
+    "manual": {
       "comments": "PXN: only available PDF is a scan",
       "datasets": [
         "dataset-001"
